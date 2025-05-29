@@ -1,0 +1,5 @@
+streamlit
+pandas
+xgboost
+shap<0.44
+joblib
