@@ -3,3 +3,6 @@ pandas
 xgboost
 shap<0.44
 joblib
+matplotlib
+sickit-learn
+numpy
